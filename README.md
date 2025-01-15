@@ -18,7 +18,6 @@ This project is a Python-based audio format converter designed to handle various
 - [Requirements](#requirements)
 - [Building the .exe](#building-the-exe)
 - [User Interface](#user-interface)
-- [License](#license)
 
 ---
 
@@ -116,13 +115,8 @@ For optimal performance and to ensure that `ffmpeg.exe` is properly included whe
 
 Below is an image of the application's UI:
 
-![Application UI](ui/ui_image.png)
+![Application UI](img/User%20Interface.PNG)
 
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
